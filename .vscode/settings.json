@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/etud/MachineLearning/Projet/Snake_Qlearning/commons-lang3-3.12.0.jar",
+        "/home/etud/Téléchargements/Snake_Qlearning/commons-lang3-3.12.0.jar"
+    ]
+}

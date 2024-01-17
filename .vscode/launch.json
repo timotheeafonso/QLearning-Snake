@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch main_batchMode_duel",
+            "request": "launch",
+            "mainClass": "main_duel.main_batchMode_duel",
+            "projectName": "Snake_Qlearning_8d8b29b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch main_debugMode_duel",
+            "request": "launch",
+            "mainClass": "main_duel.main_debugMode_duel",
+            "projectName": "Snake_Qlearning_8d8b29b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch main_batchMode_solo",
+            "request": "launch",
+            "mainClass": "main_solo.main_batchMode_solo",
+            "projectName": "Snake_Qlearning_8d8b29b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch main_debugMode_solo",
+            "request": "launch",
+            "mainClass": "main_solo.main_debugMode_solo",
+            "projectName": "Snake_Qlearning_8d8b29b6"
+        }
+    ]
+}
